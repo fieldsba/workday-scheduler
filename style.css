@@ -104,3 +104,9 @@ table {
   text-decoration: underline;
   padding-top: 20px;
 }
+
+textarea {
+  width: 100%;
+  text-align: center;
+  border: none;
+}
